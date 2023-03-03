@@ -1,5 +1,6 @@
 # ChatGPT_in_cmd
 这是一个基于ChatGPT的API的命令行聊天程序，支持连续回答与发起新对话，并且优化了用户界面，代码添加了注释
+
 This is a command-line chat program based on the ChatGPT API, which supports continuous responses and initiating new conversations, and has optimized user interface with added comments to the code.
 
 ### 运行初始界面
