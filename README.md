@@ -1,0 +1,2 @@
+# ChatGPT_in_cmd
+一个基于ChatGPT的API的命令行聊天程序，支持连续回答与发起新对话
